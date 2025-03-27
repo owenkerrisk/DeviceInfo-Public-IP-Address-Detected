@@ -18,7 +18,7 @@ During routine maintenance, the security team is tasked with investigating any V
 
 ### **Timeline Overview**  
 1. **🔍 Archiving Activity:**  
-   - **Observed Behavior:**  Windows-target-1 has been internet-facing for several days, the public IPAddress was in the Logs. Last Internet facing time: `2025-01-06T19:15:05.9710276Z`
+   - **Observed Behavior:**  Windows-target-1 has been internet-facing for several days, the public IPAddress was in the Logs. Last Internet facing time: `2025-03-27T02:27:41.3429937Z`
   
    - **Detection Query:**
 ```kql
